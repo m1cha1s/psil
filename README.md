@@ -1,1 +1,2 @@
-# cmake_project_template
+# Psil
+A lisp in C
